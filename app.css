@@ -1,0 +1,162 @@
+app.css
+
+h1 {
+	font-size:100px;
+}
+li {
+	color: blue;
+	}
+p {
+	font-family: oswald;
+	font-weight: bold;
+} 
+
+
+#container-inside-top img{
+    align-content: center;
+    align-self: center;
+    align-content: flex-end;
+    height: 300px;
+    width: 300px;
+  
+}
+
+#top {
+    background: #000;
+    color: aliceblue;
+}
+
+
+#containerjumbotron {
+    text-align: center;
+    position: relative;
+    width: 100%;
+    font-weight: bold;
+}
+
+#containerjumbotron2456 {
+    text-align: center;
+    position: relative;
+    width: 100%;
+    font-weight: bold;
+    color: black;
+    height: auto;
+}
+
+#jumbo_first {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: auto;
+    background-image:url(/Users/sahil_21/Desktop/website/studyImage.jpeg);
+}
+
+
+#SkillsJumbrotron {
+    text-align: center;
+    position: relative;
+    width: 100%;
+    font-weight: bold;
+    color: white;
+    height: auto;
+}
+
+
+
+
+#jumbo_second {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: auto;
+    background-image:url(/Users/sahil_21/Desktop/website/coding_back.jpg);
+}
+
+
+
+
+
+#hello {
+    background-color: white;
+}
+
+#container-inside-top {
+    padding-top: 25%;
+    text-align: center;
+    align-self: center;
+}
+
+.after-top {
+    background-color: white;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
+
+.top {
+    padding: 5px;
+    align-content: center;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: auto;
+    height: 100%;
+    background-image: url(/Users/sahil_21/Desktop/website/e80c0314ebdc0c8aa6f69e62f38a2bc3-700.jpg); 
+}
+
+#ActivityJumbotron {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: auto;
+    color: white;
+    background-image:url(/Users/sahil_21/Desktop/website/extraActtivi.jpg);
+
+}
+
+#SkillsJumbotron {
+    color: white;
+    text-align: center;
+}
+
+
+
+#belowjumbotron {
+    text-align: center;
+    
+}
+
+#belowjumbotron2 {
+    text-align: center;
+    position: relative;
+    width: auto;
+    height: auto;
+    
+}
+
+#container-small-disc {
+    font-size: x-large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    
+    
+
+}
+
+#card1 {
+    text-align: center;
+}
+
+#card2 {
+    text-align:center;
+}
